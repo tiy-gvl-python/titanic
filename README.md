@@ -41,3 +41,7 @@ Read through the first three "Getting Started" sections (Excel, Python, Python I
 Create a submission that gives you a public score greater than or equal to 0.78.
 
 Use the included IPython Notebook as a starting point to get to ~78%
+
+## Hard Mode
+
+In addition to normal mode requirements figure out how to predict > .90
