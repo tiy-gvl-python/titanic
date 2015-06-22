@@ -38,8 +38,6 @@ Go to [Kaggle](http://www.kaggle.com/) and sign up for an account. Once you have
 
 Read through the first three "Getting Started" sections (Excel, Python, Python II). Make one or more entries to the competition.
 
-## Hard Mode
-
-In addition to the requirements from **Normal Mode**:
-
 Create a submission that gives you a public score greater than or equal to 0.78.
+
+Use the included IPython Notebook as a starting point to get to ~78%
