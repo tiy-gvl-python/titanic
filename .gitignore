@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+.envrc
+titanic
+=======
 # Created by https://www.gitignore.io
 
 ### IPythonNotebook ###
@@ -112,3 +116,4 @@ crashlytics-build.properties
 
 .direnv/
 .DS_Store
+>>>>>>> 6dda582d24cc260359ad4edb4db2210c3168545b

@@ -2,3 +2,4 @@ ipython[notebook]
 pandas
 scikit-learn
 seaborn
+numpy
