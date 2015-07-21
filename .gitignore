@@ -61,7 +61,7 @@ docs/_build/
 # PyBuilder
 target/
 
-
+*.csv
 ### PyCharm ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
 
