@@ -1,3 +1,5 @@
+This was the start of datascience at the Iron Yard.  I started learning about classification.
+
 # Enter the Titanic Kaggle competition
 
 ## Description
