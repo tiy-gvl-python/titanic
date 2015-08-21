@@ -1,4 +1,6 @@
-# Enter the Titanic Kaggle competition
+# Run titanic_prediction.ipynb using Ipython Notebook
+
+## Enter the Titanic Kaggle competition
  
 ## Description
 
