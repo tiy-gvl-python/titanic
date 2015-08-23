@@ -2,25 +2,11 @@
 
 ## Description
 
-Enter the [Titanic competition on Kaggle](https://www.kaggle.com/c/titanic-gettingStarted) used to help new entrants learn about classification and using Kaggle.
+Contains an ipython notebook where I develop a model(classification) for determining which passengers survived given some information (feature vectors) on each passenger.
 
 ## Objectives
 
-### Learning Objectives
-
-After completing this assignment, you should understand:
-
-* Feature vectors
-* Basic classification
-
-### Performance Objectives
-
-After completing this assignment, you should be able to:
-
-* Use Pandas to generate CSV files
-* Perform classification by hand
-
-## Details
+## Assignment Details
 
 ### Deliverables
 
