@@ -1,5 +1,7 @@
-# Enter the Titanic Kaggle competition
+# Run titanic_prediction.ipynb using Ipython Notebook
 
+## Enter the Titanic Kaggle competition
+ 
 ## Description
 
 Enter the [Titanic competition on Kaggle](https://www.kaggle.com/c/titanic-gettingStarted) used to help new entrants learn about classification and using Kaggle.
